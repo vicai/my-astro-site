@@ -1,4 +1,4 @@
-name: Weiqi Github Pages Astro CI
+name: Github Pages Astro CI
 
 on:
   # Trigger the workflow every time you push to the `main` branch
